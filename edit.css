@@ -1,0 +1,32 @@
+#one{
+    height: 80vh;
+    width: 50%;
+    background-color:darkcyan;
+    margin: auto;
+    padding: 2%;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 4%;
+    
+
+}
+#bdy{
+    background-color:blanchedalmond;
+    
+    
+}
+#meaning,#syn{
+    color:burlywood;
+}
+#search{
+    border-radius: 20px;
+    border:none;
+    border-style: outset;
+}
+#btn{
+    border-radius: 10px;
+    padding: 2%;
+    padding-bottom: 3%;
+    text-decoration: antiquewhite;
+    font-weight: bolder;
+}
